@@ -2,7 +2,7 @@
 
 
 - `Library Versions`
-  - Python         : 3.9.13
+  - Python         : 3.9.13 
   - NumPy          : 1.24.0
   - Pandas         : 2.3.3
   - PyTorch        : 2.6.0+cu124
